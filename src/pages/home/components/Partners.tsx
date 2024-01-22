@@ -7,9 +7,9 @@ const Partners = () => {
         { imgSource: "uwe.png" },
         { imgSource: "birmingham-city.png" },
     ]
-    const institutionPartners = [
-        {  }
-    ]
+    // const institutionPartners = [
+    //     {  }
+    // ]
 
   return (
     <div className="bg-white py-8 lg:py-20 px-4">
